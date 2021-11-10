@@ -1,0 +1,449 @@
+Id,Victim's name,Victim's age,Victim's gender,Victim's race,Date of Incident (month/day/year),City,State,Zipcode,Agency responsible for death,Cause of death,Criminal Charges?,Symptoms of mental illness?,Alleged Weapon (Source: WaPo and Review of Cases Not Included in WaPo Database),Alleged Threat Level (Source: WaPo),Fleeing (Source: WaPo),Armed/Unarmed Status
+0,Jose Oyuela-Palma,49,Male,Unknown race,2021-09-21,Henderson,NV,,Henderson Police Department,Gunshot,No known charges,No,undetermined,,,Unclear
+1,Trent Leach,30,Male,Unknown race,2021-09-21,Las Vegas,NV,89101.0,Las Vegas Metropolitan Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+2,Phillip Lopez,42,Male,Unknown race,2021-09-20,Signal Hill,CA,,Signal Hill Police Department,Gunshot,No known charges,No,knife,attack,foot,Allegedly Armed
+3,Deon Ledet,30,Male,Black,2021-09-20,Houston,TX,,Houston Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+4,Jason Husted,47,Male,Unknown race,2021-09-18,West Ashley,SC,29414.0,Charleston County Sheriff's Office,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+5,Unsfored Lewis Thurmond,27,Male,Unknown race,2021-09-18,Smyrna,GA,30080.0,Smyrna Police Department,Gunshot,No known charges,Yes,gun,attack,,Allegedly Armed
+6,Adrian Cameron,47,Male,Black,2021-09-18,Nashville,TN,37214.0,Metropolitan Nashville Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+7,Christopher E. Rush,34,Male,Unknown race,2021-09-18,Mahoning Township,PA,16132.0,Mahoning Township Police Department,Gunshot,No known charges,No,sharp object,attack,not fleeing,Allegedly Armed
+8,Dishawn Sanders,Unknown,Male,Unknown race,2021-09-18,Jackson,MS,,Jackson Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+9,Name withheld by police,Unknown,Male,Unknown race,2021-09-18,,KY,,Gallatin County Sheriff's Office,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+10,Matthew Joseph Wilbanks,41,Male,Unknown race,2021-09-17,Marietta,GA,30066.0,Cobb County Police Department,Gunshot,No known charges,Yes,knife,other,not fleeing,Allegedly Armed
+11,Jonathan Carroll,38,Male,Unknown race,2021-09-17,Escondido,CA,,Escondido Police Department,Gunshot,No known charges,No,gun,other,car,Allegedly Armed
+12,Name withheld by police,Unknown,Male,Unknown race,2021-09-16,Huntsville,TX,77340.0,Walker County Sheriff's Office,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+13,Kenzie Keyes,30,Female,Unknown race,2021-09-15,Phoenix ,AZ,85016.0,"Arizona Department of Public Safety, Maricopa County Adult Probation",Gunshot,No known charges,No,gun,attack,foot,Allegedly Armed
+14,Christopher George,25,Male,Unknown race,2021-09-15,Davis,OK,,Davis Police Department,Gunshot,No known charges,Yes,gun,attack,,Allegedly Armed
+15,Charles Sharp III,49,Male,Unknown race,2021-09-14,Mantua Township,NJ,8051.0,Mantua Township Police Department,Gunshot,No known charges,No,toy weapon,,,Unarmed/Did Not Have Actual Weapon
+16,Tristan Vereen,Unknown,Male,Black,2021-09-11,Longs,SC,,South Carolina Highway Patrol,Gunshot,No known charges,No,undetermined,other,other,Unclear
+17,Desmond Lewis,30,Male,Unknown race,2021-09-11,Shreveport,LA,71106.0,Shreveport Police Department,Gunshot,No known charges,No,gun,attack,foot,Allegedly Armed
+18,Cedric Williams,29,Male,Unknown race,2021-09-10,Oxon Hill,MD,20745.0,Prince George's County Police Department,Gunshot,No known charges,Yes,toy weapon,other,,Unarmed/Did Not Have Actual Weapon
+19,Anthony Cravo,52,Male,White,2021-09-07,Lufkin,TX,75901.0,Lufkin Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+20,Name withheld by police,Unknown,Male,Unknown race,2021-09-07,Fruit Cove,FL,32259.0,St. Johns County Sheriff's Office,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+21,Josue Arias,32,Male,Hispanic,2021-09-07,Clearwater,FL,33763.0,Pinellas County Sheriff's Office,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+22,Frederick Thomas,41,Male,Unknown race,2021-09-06,Miami Township,OH,45342.0,Miami Township Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+23,Robert Gutierrez,59,Male,Hispanic,2021-09-06,Springfield,OR,97478.0,Lane County Sheriff's Office,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+24,Name withheld by police,25,Male,Unknown race,2021-09-04,Lakewood,WA,98439.0,Lakewood Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+25,David Marshall,31,Male,Unknown race,2021-09-03,Oak Creek,WI,53132.0,"Oak Creek Police Department, Milwaukee County Sheriff's Office",Gunshot,No known charges,Yes,gun,other,other,Allegedly Armed
+26,Cedric Baxter,60,Male,Black,2021-09-03,Buena Park,CA,,Buena Park Police Department,Gunshot,No known charges,Unclear,undetermined,other,car,Unclear
+27,Estevan Ramriez,18,Male,Hispanic,2021-09-03,Fort Worth ,TX,,Fort Worth Police Department,Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+28,James Williams,33,Male,Unknown race,2021-09-01,Indianapolis ,IN,46218.0,Indianapolis Metropolitan Police Department,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+29,George Watson,34,Male,Unknown race,2021-08-31,Washington,DC,20009.0,DC Metropolitan Police Department,Gunshot,No known charges,No,toy weapon,attack,not fleeing,Unarmed/Did Not Have Actual Weapon
+30,Jeremy Michael Berg,45,Male,Unknown race,2021-08-31,Martelle,IA,52305.0,"Jones County Sheriff's Office, Anamosa Police Department",Gunshot,No known charges,No,knife,other,,Allegedly Armed
+31,Paris Wilder,38,Male,Black,2021-08-30,West Melbourne,FL,32904.0,Brevard County Sheriff's Office,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+32,Etianna Planellas,48,Female,Hispanic,2021-08-30,Miami Shores,FL,33150.0,Miami Shores Police Department,Gunshot,No known charges,Yes,toy weapon,other,not fleeing,Unarmed/Did Not Have Actual Weapon
+33,Ronald J. Reiner,66,Male,Unknown race,2021-08-30,Normal,IL,61761.0,Normal Police Department,Gunshot,No known charges,No,undetermined,,,Unclear
+34,Brittni Muldrew,36,Female,White,2021-08-30,Coconut Creek,FL,33073.0,Coconut Creek Police Department,Gunshot,No known charges,No,vehicle,other,,Vehicle
+35,Martin Luther Bowman,80,Male,Unknown race,2021-08-30,Pearlington,MS,39572.0,Hancock County Sheriff's Office,Gunshot,No known charges,No,undetermined,,,Unclear
+36,Michael Rosado,24,Male,Hispanic,2021-08-29,Bronx,NY,10457.0,New York Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+37,Name withheld by police,Unknown,Male,Unknown race,2021-08-29,Atlanta ,GA,,Atlanta Police Department ,Gunshot,No known charges,No,metal pipe,other,,Allegedly Armed
+38,Grey Bell,40,Male,White,2021-08-29,Atlanta,GA,30318.0,"Atlanta Police Department, Georgia State Patrol",Gunshot,No known charges,Yes,gun,other,car,Allegedly Armed
+39,Johnny Lee Perry II,31,Male,Black,2021-08-29,Missoula,MT,59804.0,Missoula County Sheriff's Office,Gunshot,No known charges,No,machete,other,,Allegedly Armed
+40,Name withheld by police,Unknown,Male,Unknown race,2021-08-29,Morrisville,PA,19067.0,Falls Township Police Department,Gunshot,No known charges,No,undetermined,,,Unclear
+41,Name withheld by police,Unknown,Male,Unknown race,2021-08-28,Arkoma,OK,74901.0,Arkoma Police Department,Gunshot,No known charges,No,vehicle,attack,,Vehicle
+42,Ingmar Von Strandberg,30,Male,White,2021-08-28,Tonopah,NV,89013.0,"Nye County Sheriff's Office, Esmeralda County Sheriff's Office",Gunshot,No known charges,Yes,gun,other,not fleeing,Allegedly Armed
+43,Lonnel Cephas,19,Male,Unknown race,2021-08-27,Elkhart,IN,46516.0,Elkhart Police Department,Gunshot,No known charges,Unclear,undetermined,,,Unclear
+44,Brandon Ventura,33,Male,Unknown race,2021-08-27,Honolulu,HI,96814.0,Honolulu Police Department,Gunshot,No known charges,Yes,gun,other,not fleeing,Allegedly Armed
+45,Alexander Tadros,30,Male,White,2021-08-27,Portland ,OR,97217.0,"Portland Police Department, Drug Enforcement Administration",Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+46,David G. Wandell,53,Male,White,2021-08-27,Elmira,NY,14905.0,"New York State Police, Elmira Police Department",Gunshot,No known charges,No,gun,other,foot,Allegedly Armed
+47,Christopher Corey Moore,41,Male,Black,2021-08-27,Greensboro,NC,27406.0,Greensboro Police Department,Gunshot,No known charges,No,no object,attack,not fleeing,Unarmed/Did Not Have Actual Weapon
+48,Earl D. Loawhorn III,33,Male,White,2021-08-26,Milwaukee,WI,53210.0,Milwaukee Police Department,Gunshot,No known charges,No,gun,other,foot,Allegedly Armed
+49,Vladislav Fomin,53,Male,White,2021-08-26,Nampa,ID,83686.0,Nampa Police Department,Gunshot,No known charges,No,gun,other,not fleeing,Allegedly Armed
+50,Zaqua Radle-Maxson,27,Male,Native American/Alaskan,2021-08-26,Wasilla,AK,99654.0,"Wasilla Police Department, Alaska State Police, Palmer Police Department",Gunshot,No known charges,No,bb gun,other,car,Unarmed/Did Not Have Actual Weapon
+51,Samuel Kirk,26,Male,Unknown race,2021-08-26,Sanford,FL,32771.0,Seminole County Sheriff's Office,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+52,Kevin Victor Johnson,22,Male,Unknown race,2021-08-25,Fremont,CA,94538.0,Fremont Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+53,Robert Anderson,38,Male,Black,2021-08-25,Crescent City,CA,95531.0,"California Highway Patrol, Del Norte County Sheriff's Office",Gunshot,No known charges,No,knife,other,not fleeing,Allegedly Armed
+54,Kenneth Vessell,36,Male,Unknown race,2021-08-25,Redondo Beach,CA,90277.0,Redondo Beach Police Department,Gunshot,No known charges,No,"gun, knife",attack,foot,Allegedly Armed
+55,Ryan Kaufman,43,Male,Unknown race,2021-08-25,West Richland,WA,99353.0,West Richland Police Department,Gunshot,No known charges,Unclear,gun,attack,,Allegedly Armed
+56,Rodney Barton,42,Male,Unknown race,2021-08-25,Grantsville,UT,84029.0,Grantsville Police Department,Gunshot,No known charges,No,knife,attack,,Allegedly Armed
+57,Jonathan Daniel Mansilla,33,Male,Unknown race,2021-08-25,Rutland,VT,5701.0,Rutland City Police Department,Gunshot,No known charges,No,undetermined,other,foot,Unclear
+58,Antwan Gilmore,27,Male,Black,2021-08-25,Washington,DC,20002.0,DC Metropolitan Police Department,Gunshot,No known charges,No,gun,other,not fleeing,Allegedly Armed
+59,Tory Brown,22,Male,Black,2021-08-24,College Park,GA,30349.0,Clayton County Sheriff's Office,Gunshot,No known charges,No,no object,undetermined,,Unarmed/Did Not Have Actual Weapon
+60,Paul Rasmussen,48,Male,White,2021-08-24,Provo,UT,84601.0,Provo Police Department,Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+61,Name withheld by police,31,Male,Unknown race,2021-08-24,Payson,AZ,85541.0,Payson Police Department,Gunshot,No known charges,No,no object,other,,Unarmed/Did Not Have Actual Weapon
+62,Jamar Jason Taylor,$33.00,Male,Unknown race,2021-08-24,Butler City,IL,60606.0,Amtrak Police Department,Gunshot,No known charges,No,gun,attack,foot,Allegedly Armed
+63,Trinidad Marry,42,Male,Hispanic,2021-08-23,Amarillo,TX,79104.0,Amarillo Police Department,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+64,John Ebberts,35,Male,White,2021-08-23,Butler,PA,16001.0,Butler City Police Department,Gunshot,No known charges,Yes,knife,attack,,Allegedly Armed
+65,Tyran Lamb,31,Male,Black,2021-08-22,Milwaukee,WI,53215.0,Greenfield Police Department,Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+66,Juan Luis Olvera-Preciado,59,Male,Hispanic,2021-08-22,Guadalupe,CA,93434.0,Guadalupe Police Department,Gunshot,No known charges,No,no object,other,not fleeing,Unarmed/Did Not Have Actual Weapon
+67,Shannon Trevor McKinley,28,Male,White,2021-08-21,Florence,MS,39073.0,Rankin County Sheriff's Department,Gunshot,No known charges,No,gun,attack,foot,Allegedly Armed
+68,Daryl Jay Carr,45,Male,White,2021-08-21,Allenhurst ,GA,31301.0,Liberty County Sheriff's Office,Gunshot,No known charges,No,undetermined,other,not fleeing,Unclear
+69,Brandon Lee Schlicting,28,Male,White,2021-08-20,Chanute,KS,66720.0,Chanute Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+70,George Michael Mireles,34,Male,Hispanic,2021-08-20,Amarillo,TX,79102.0,Amarillo Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+71,Name withheld by police,Unknown,Male,Unknown race,2021-08-19,El Cajon,CA,92019.0,El Cajon Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+72,Douglas Brown,26,Male,Unknown race,2021-08-19,Selawik ,AK,,Alaska State Troopers,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+73,Lucas Antonio Salas,33,Male,Hispanic,2021-08-18,Thornton,CO,80602.0,"Northglenn Police Department, Thornton Police Department",Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+74,James Maltalice Smith,41,Male,Unknown race,2021-08-18,Somerville,TX,77836.0,"Burleson County Sheriff's Office, Texas Department of Public Safety",Gunshot,No known charges,Unclear,gun,attack,not fleeing,Allegedly Armed
+75,Ronald Zavaglia,72,Male,White,2021-08-18,Pflugerville,TX,78660.0,Pflugerville Police Department,Gunshot,No known charges,No,unknown weapon,undetermined,,Allegedly Armed
+76,Ervin Olikong,34,Male,Hispanic,2021-08-18,Highland,CA,92346.0,San Bernardino County Sheriff's Office,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+77,Devonte Dawayne Brown,28,Male,Black,2021-08-18,Marietta,GA,30064.0,Cobb County Police Department,Gunshot,No known charges,No,vehicle,attack,car,Vehicle
+78,Terrence Bey,29,Male,Black,2021-08-18,Philadelphia,PA,19124.0,Philadelphia Police Department,Gunshot,No known charges,No,gun,attack,other,Allegedly Armed
+79,Kevin Eugene Norris,50,Male,White,2021-08-18,Beckley,WV,25801.0,Raleigh County Sheriff's Office,Gunshot,No known charges,No,toy weapon,other,,Unarmed/Did Not Have Actual Weapon
+80,Destinee Thompson,27,Female,Unknown race,2021-08-17,Wheat Ridge,CO,80033.0,Arvada Police Department,Gunshot,No known charges,No,undetermined,other,,Unclear
+81,Broderick Shelton,42,Male,Black,2021-08-16,Milwaukee,WI,53206.0,Milwaukee Police Department,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+82,Antonio Jackson,27,Male,Black,2021-08-16,Memphis,TN,38111.0,Shelby County Sheriff's Office,Gunshot,No known charges,No,vehicle,attack,,Vehicle
+83,Katelyn L. Harris,29,Female,White,2021-08-15,Chuckey,TN,37641.0,Sullivan County Sheriff's Office,Gunshot,No known charges,No,"gun, vehicle",other,car,Allegedly Armed
+84,Name withheld by police,Unknown,Male,Unknown race,2021-08-15,Barstow,CA,92311.0,Barstow Police Department,Gunshot,No known charges,Unclear,undetermined,,foot,Unclear
+85,Name withheld by police,Unknown,Male,Unknown race,2021-08-15,Albuquerque,NM,87112.0,Albuquerque Police Department,Gunshot,No known charges,No,gun,attack,foot,Allegedly Armed
+86,Phillip John Walden,40,Male,White,2021-08-15,Chapin,SC,29036.0,Newberry County Sheriff's Office,"Gunshot, Taser",No known charges,No,unknown weapon,other,car,Allegedly Armed
+87,Stephanie Gerardi,38,Female,White,2021-08-14,Saugus,MA,1906.0,Saugus Police Department,Gunshot,No known charges,Yes,knife,other,not fleeing,Allegedly Armed
+88,Kyle Anthony Goidosik ,35,Male,White,2021-08-14,Galesburg,MI,49088.0,Kalamazoo County Sheriff's Office,Gunshot,No known charges,No,gun,attack,other,Allegedly Armed
+89,John Vogel,80,Male,White,2021-08-14,St. Paul,NE,68873.0,Nebraska State Patrol,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+90,Steven D. Primm,35,Male,Unknown race,2021-08-13,San Antonio,TX,78220.0,San Antonio Police Department,Gunshot,No known charges,Unclear,gun,attack,other,Allegedly Armed
+91,Name withheld by police,Unknown,Male,Unknown race,2021-08-13,Bakersfield,CA,93304.0,Bakersfield Police Department,Gunshot,No known charges,Yes,undetermined,,not fleeing,Unclear
+92,William Sellers,73,Male,White,2021-08-12,Orlando,FL,32827.0,"Orlando Police Department, Orange County Sheriff's Office",Gunshot,No known charges,Yes,gun,other,not fleeing,Allegedly Armed
+93,Name withheld by police,Unknown,Male,Unknown race,2021-08-12,Winnie,TX,77665.0,Harris County Sheriff's Office,Gunshot,No known charges,Unknown,gun,attack,not fleeing,Allegedly Armed
+94,Rodney Coleman,50,Male,Unknown race,2021-08-11,Victorville,CA,92392.0,San Bernardino County Sheriff's Office,Physical Restraint,No known charges,Unknown,no object,other,not fleeing,Unarmed/Did Not Have Actual Weapon
+95,Name withheld by police,Unknown,Male,Unknown race,2021-08-11,Denver,CO,80221.0,Adams County Sheriff's Office,Gunshot,No known charges,No,gun,other,foot,Allegedly Armed
+96,Adrian Joel Sanchez,34,Male,Hispanic,2021-08-11,Castaic,CA,91384.0,Los Angeles County Sheriff's Department,Gunshot,No known charges,No,vehicle,other,other,Vehicle
+97,Elia S. Laeli,41,Male,Asian/Pacific Islander,2021-08-11,Honolulu,HI,96817.0,Honolulu Police Department,Gunshot,No known charges,No,machete,attack,not fleeing,Allegedly Armed
+98,Brooks Hacker,35,Male,White,2021-08-11,Juniata,NE,68955.0,Nebraska State Patrol,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+99,Daniel Turney Crowley,31,Male,White,2021-08-11,Nashville ,TN,37209.0,Metropolitan Nashville Police Department,Gunshot,No known charges,No,knife,attack,not fleeing,Allegedly Armed
+100,Marvin Richard Hitchcock,71,Male,White,2021-08-10,Grantsboro,NC,28529.0,"Pamlico County Sheriff's Office, North Carolina State Highway Patrol, Oriental Police Department, North Carolina Probation and Parole",Gunshot,No known charges,Yes,gun,other,not fleeing,Allegedly Armed
+101,Johan Alexis Salazar,21,Male,Hispanic,2021-08-10,El Mirage,AZ,85335.0,El Mirage Police Department,Gunshot,No known charges,No,gun,attack,foot,Allegedly Armed
+102,"James ""Jim"" Robert Wiesner Sr.",51,Male,White,2021-08-10,North Aurora,IL,60542.0,North Aurora Police Department,Gunshot,No known charges,Yes,gun,other,not fleeing,Allegedly Armed
+103,Luis Manuel Garcia,39,Male,Hispanic,2021-08-09,Tustin,CA,92780.0,Tustin Police Department,Gunshot,No known charges,Unknown,undetermined,,,Unclear
+104,Christopher Robinson,48,Male,Unknown race,2021-08-09,Seguin,TX,78155.0,Guadalupe County Sheriff's Office,Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+105,Steven Ray Bailey,63,Male,White,2021-08-09,Rocky Face,GA,30740.0,Whitfield County Sheriff's Office,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+106,"Dashawn ""Big Top"" Batiste",22,Male,Black,2021-08-08,Lafayette,LA,70503.0,Lafayette Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+107,Randal Boyd Burton,62,Male,White,2021-08-08,Spring,TX,77379.0,Harris County Sheriff's Office,Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+108,Name withheld by police,Unknown,Male,Unknown race,2021-08-08,Detroit,MI,48211.0,Detroit Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+109,Marcus Martin,40,Male,Black,2021-08-08,Baltimore,MD,21206.0,Baltimore Police Department,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+110,Che Noe Zuniga,21,Male,Unknown race,2021-08-07,Bakersfield,CA,93313.0,Bakersfield Police Department,Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+111,Roger Peter Lynch,59,Male,White,2021-08-06,Delancey,NY,13753.0,New York State Police,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+112,Matthew Tran,22,Male,Asian,2021-08-06,La Habra,CA,90631.0,La Habra Police Department,Gunshot,No known charges,No,gun,other,not fleeing,Allegedly Armed
+113,Nathan Larry Parsons,49,Male,White,2021-08-06,Cullman,AL,35055.0,Alabama State Bureau of Investigation,Gunshot,No known charges,No,undetermined,,,Unclear
+114,Hayden Charles McIlvain,34,Male,Unknown race,2021-08-06,Coeur d'Alene,ID,83815.0,Coeur d'Alene Police Department,Gunshot,No known charges,Unknown,gun,other,not fleeing,Allegedly Armed
+115,Chad Fiscus,35,Male,White,2021-08-05,Rockville,IN,47872.0,Parke County Sheriff's Office,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+116,Isaiah Hinds,22,Male,White,2021-08-05,Seattle,WA,98146.0,Seattle Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+117,Joseph John Howard,35,Male,White,2021-08-05,Hartford,VT,5001.0,Hartford Police Department,Gunshot,No known charges,No,no object,attack,not fleeing,Unarmed/Did Not Have Actual Weapon
+118,Aler Ronald Escobar-Velasquez,36,Male,Hispanic,2021-08-05,Joplin,MO,64804.0,Webb City Police Department,Gunshot,No known charges,No,taser,attack,,Allegedly Armed
+119,Dylan Christopher Harmer,21,Male,White,2021-08-04,Glendora,CA,91740.0,Azusa Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+120,Sean Rowe,38,Male,White,2021-08-04,Mansfield ,OH,44903.0,"Mansfield Police Department, Ontario Police Department",Gunshot,No known charges,No,unknown weapon,other,not fleeing,Allegedly Armed
+121,Terrance Dominic Knight,19,Male,White,2021-08-04,Blackfoot,ID,83221.0,Bingham County Sheriff's Office,Gunshot,No known charges,No,gun,attack,foot,Allegedly Armed
+122,Antonio King,22,Male,Black,2021-08-03,Nashville,TN,37013.0,Metropolitan Nashville Police Department,Gunshot,No known charges,Unknown,gun,attack,not fleeing,Allegedly Armed
+123,Ent Wright,76,Male,Unknown race,2021-08-03,Waco,TX,76710.0,Waco Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+124,Name withheld by police,22,Male,Unknown race,2021-08-03,Conshohocken ,PA,19428.0,Plymouth Township Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+125,Name withheld by police,Unknown,Male,Hispanic,2021-08-02,Eagle Pass,TX,78852.0,U.S. Customs and Border Protection,Physical Restraint,No known charges,No,no object,,,Unarmed/Did Not Have Actual Weapon
+126,Keith Wayne Homrighausen,49,Male,White,2021-07-31,Centennial,CO,80015.0,Arapahoe County Sheriff's Office,Gunshot,No known charges,Unknown,gun,attack,not fleeing,Allegedly Armed
+127,Name withheld by police,39,Male,Unknown race,2021-07-31,Yulee,FL,32097.0,Nassau County Sheriff's Office,Gunshot,No known charges,Yes,knives,other,not fleeing,Allegedly Armed
+128,Ruben Isaac Sanchez,31,Male,Hispanic,2021-07-31,Woodville,CA,93257.0,Tulare County Sheriff's Office,Gunshot,No known charges,No,gun,attack,other,Allegedly Armed
+129,Luis Fernando Flores,44,Male,Hispanic,2021-07-30,Celina,TX,75009.0,Celina Police Department,Gunshot,No known charges,No,unknown weapon,other,not fleeing,Allegedly Armed
+130,James Haynes,31,Male,Unknown race,2021-07-29,Mansfield ,OH,44903.0,Mansfield Police Department,Gunshot,No known charges,No,knife,attack,not fleeing,Allegedly Armed
+131,Jonathan Andrew Pears,32,Male,White,2021-07-28,Wetumpka,AL,36093.0,Elmore County Sheriff's Office,Gunshot,No known charges,No,machete,other,not fleeing,Allegedly Armed
+132,Douglas Joseph Claiborne,60,Male,White,2021-07-27,Las Vegas,NV,89109.0,Nevada Highway Patrol,Gunshot,No known charges,No,vehicle,other,car,Vehicle
+133,Alexis C. Wilson,19,Female,Black,2021-07-27,Dolton,IL,60419.0,Dolton Police Department,Gunshot,No known charges,No,vehicle,attack,car,Vehicle
+134,Losardo Lucas,55,Male,Black,2021-07-27,Calumet City,IL,60409.0,U.S. Marshals Service,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+135,Lisa Hight,Unknown,Female,White,2021-07-27,Chickasha,OK,73018.0,Chickasha Police Department,Gunshot,No known charges,Yes,gun,,not fleeing,Allegedly Armed
+136,Kevlin Wallace,39,Male,Black,2021-07-27,Riverside,OH,45404.0,Riverside Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+137,Justin Damon Roberts,35,Male,Unknown race,2021-07-27,Cottonwood,AL,36320.0,Cottonwood Police Department,Gunshot,No known charges,Unknown,gun,other,not fleeing,Allegedly Armed
+138,Robert P. Uhler,56,Male,White,2021-07-27,Westfield ,PA,16950.0,U.S. Federal Bureau of Investigation,Gunshot,No known charges,No,unknown weapon,other,,Unclear
+139,Neida Tijerina,29,Female,Hispanic,2021-07-26,San Antonio,TX,78214.0,San Antonio Police Department,Gunshot,No known charges,No,no object,,not fleeing,Unarmed/Did Not Have Actual Weapon
+140,Hermenegildo Gonzalez Jr.,58,Male,Hispanic,2021-07-26,Los Angeles ,CA,90066.0,Los Angeles Police Department,Gunshot,No known charges,No,knife,attack,not fleeing,Allegedly Armed
+141,Jacob Bender,39,Male,White,2021-07-26,Gobles,MI,49055.0,Van Buren County Sheriff's Office,Gunshot,No known charges,No,knife,attack,not fleeing,Allegedly Armed
+142,"Gabriel ""Sam"" Parker",38,Male,Black,2021-07-25,Atlanta,GA,30318.0,Atlanta Police Department,Gunshot,No known charges,No,undetermined,,not fleeing,Unclear
+143,Jose Manuel Ramirez Jr.,41,Male,Hispanic,2021-07-25,Wasco,CA,93280.0,Kern County Sheriff's Office,Gunshot,No known charges,Unknown,gun,attack,not fleeing,Allegedly Armed
+144,Name withheld by police,35,Male,Unknown race,2021-07-25,Crowley,LA,70526.0,Arcadia Parish Sheriff's Office,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+145,Forrest T. Moore,31,Male,White,2021-07-24,Boise,ID,83702.0,Boise Police Department,Gunshot,No known charges,No,toy weapon,attack,not fleeing,Unarmed/Did Not Have Actual Weapon
+146,Cody Brannan,27,Male,Unknown race,2021-07-24,Dothan,AL,36303.0,Houston County Sheriff's Office,Taser,No known charges,Unknown,machete,attack,not fleeing,Allegedly Armed
+147,Jesus Salvado Valeta,22,Male,Hispanic,2021-07-23,San Diego,CA,92115.0,San Diego Police Department,Gunshot,No known charges,No,gun,other,other,Allegedly Armed
+148,Carlos Rodriguez,40,Male,Hispanic,2021-07-22,Philadelphia,PA,19134.0,Philadelphia Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+149,Cullen Condon,25,Male,White,2021-07-22,Boerne,TX,78006.0,Boerne Police Department,Gunshot,No known charges,Unknown,gun,attack,not fleeing,Allegedly Armed
+150,Shawn Tillison,43,Male,White,2021-07-22,Duncan,OK,73533.0,Duncan Police Department,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+151,Miguel F. Hernandez-Rodriguez,31,Male,Hispanic,2021-07-20,Phoenix ,AZ,85008.0,Phoenix Police Department,Gunshot,No known charges,No,knife,attack,not fleeing,Allegedly Armed
+152,"Nevada ""Japoy"" Lee Escholt",42,Male,Pacific Islander,2021-07-20,Salt Lake City,UT,84116.0,Salt Lake City Police Department,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+153,Mitchell Shuller,35,Male,White,2021-07-20,Harrisburg,PA,17112.0,Pennsylvania State Police,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+154,Gerardo Martinez,19,Male,Native American,2021-07-20,Salinas,CA,93905.0,Salinas Police Department,Gunshot,No known charges,Drug or Alcohol Use,bb gun,other,not fleeing,Unarmed/Did Not Have Actual Weapon
+155,Gilberto Martinez-Nava,37,Male,Unknown race,2021-07-20,Davenport,FL,33837.0,Polk County Sheriff's Office,Gunshot,No known charges,Yes,knife,other,not fleeing,Allegedly Armed
+156,Michael Clifton,50,Male,White,2021-07-19,Toledo,OH,43620.0,"Toledo Police Department, Michigan State Police, Ohio State Police",Gunshot,No known charges,Yes,gun,attack,other,Allegedly Armed
+157,Jason Fralick,43,Male,White,2021-07-19,Cairo,GA,39828.0,Grady County Sheriff's Office,Gunshot,No known charges,No,vehicle,other,car,Vehicle
+158,Irvin Peterson,35,Male,Black,2021-07-18,Houston,TX,77092.0,Houston Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+159,Leslie Stephen Scarlett,35,Male,Black,2021-07-18,Tucson,AZ,85713.0,Tucson Police Department,Gunshot,No known charges,Unknown,"vehicle, gun",attack,,Allegedly Armed
+160,Clint Dearman,35,Male,White,2021-07-18,Daphne,AL,36526.0,"Spanish Fort Police Department, Daphne Police Department, Baldwin County Sheriff's Office",Gunshot,No known charges,No,gun,other,car,Allegedly Armed
+161,Maurice Sentel Mincey,36,Male,Black,2021-07-17,Savannah,GA,31404.0,Savannah Police Department,Gunshot,No known charges,No,gun,other,not fleeing,Allegedly Armed
+162,Quentin Bogard,36,Male,Black,2021-07-17,Canton,MS,39046.0,Madison County Sheriff's Office,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+163,Jeffrey Scott,30,Male,Unknown race,2021-07-17,Las Vegas,NM,87701.0,Las Vegas Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+164,Name withheld by police,16,Male,Unknown race,2021-07-17,Appalachia,VA,24216.0,Wise County Sheriff's Office,Gunshot,No known charges,No,knife,attack,not fleeing,Allegedly Armed
+165,Ryan LeRoux,21,Male,Black,2021-07-16,Gaithersburg,MD,20879.0,Montgomery County Police Department,Gunshot,No known charges,Yes,gun,other,not fleeing,Allegedly Armed
+166,Dawn Simpson,51,Female,White,2021-07-16,Nampa,ID,83686.0,Nampa Police Department,Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+167,Craig Heinzen,64,Male,Unknown race,2021-07-16,Roswell,NM,88203.0,"Roswell Police Department, Chaves County Sheriff's Office",Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+168,Name withheld by police,Unknown,Male,Unknown race,2021-07-15,Los Angeles ,CA,90028.0,Los Angeles Police Department,Gunshot,No known charges,No,toy weapon,attack,not fleeing,Unarmed/Did Not Have Actual Weapon
+169,Xavier Vern Hutt,24,Male,White,2021-07-15,Essex,MT,59916.0,,Gunshot,No known charges,No,undetermined,,car,Unclear
+170,David Salinas,32,Male,Hispanic,2021-07-14,Houston,TX,77017.0,Houston Police Department,Gunshot,No known charges,No,gun,other,car,Allegedly Armed
+171,Marquez Floyd,31,Male,Black,2021-07-14,Albuquerque,NM,87112.0,U.S. Federal Bureau of Investigation,Gunshot,No known charges,No,undetermined,,,Unclear
+172,Justin Powell,32,Male,Black,2021-07-13,Baltimore,MD,21244.0,U.S. Marshals Service,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+173,Jesse Joe Carranza,21,Male,Hispanic,2021-07-13,El Paso,TX,79928.0,Texas Department of Public Safety ,Gunshot,No known charges,No,taser,other,not fleeing,Allegedly Armed
+174,Name withheld by police,Unknown,Male,Unknown race,2021-07-12,Ontario,CA,91761.0,Fontana Police Department,Gunshot,No known charges,No,vehicle,other ,car,Vehicle
+175,Johnny Ray Kirk,22,Male,White,2021-07-12,Pensacola,FL,32506.0,Escambia County Sheriff's Office,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+176,Jonathan Balchunas ,24,Male,White,2021-07-11,North East,MD,21901.0,"Cecil County Sheriff's Office, Maryland State Troopers",Gunshot,No known charges,No,gun,other,not fleeing,Allegedly Armed
+177,Shawn Thomas,36,Male,Native American,2021-07-11,Waterflow,NM,87421.0,San Juan County Sheriff's Office,Gunshot,No known charges,No,gun,other,car,Allegedly Armed
+178,Randy Lee Jenkins,37,Male,White,2021-07-10,Bennington Township,MI,48867.0,Michigan State Police,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+179,Klevontaye White,34,Male,Black,2021-07-09,Chicago,IL,60644.0,"Chicago Police Department, U.S. Marshals",Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+180,Arcadia Castillo,23,Male,Hispanic,2021-07-09,Salem ,OR,97305.0,Salem Police Department,Gunshot,No known charges,Yes,knife,undetermined,,Allegedly Armed
+181,Borkot Ullah,53,Male,Asian,2021-07-08,Brooklyn,NY,11207.0,New York Police Department,Gunshot,No known charges,No,gun,attack,foot,Allegedly Armed
+182,Stanley Howard,64,Male,White,2021-07-08,Phoenix ,AZ,85051.0,Phoenix Police Department,Gunshot,No known charges,Yes,toy weapon,other,not fleeing,Unarmed/Did Not Have Actual Weapon
+183,Shannon M. Wilcox,53,Male,Unknown race,2021-07-08,Presque Isle,ME,4769.0,Presque Isle Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+184,Jerry Allan Gunter,34,Male,White,2021-07-07,Medford,OR,97504.0,Medford Police Department,Gunshot,No known charges,No,knife,other,not fleeing,Allegedly Armed
+185,Edward Daniel Santana,45,Male,Hispanic,2021-07-07,Santa Fe,NM,87506.0,Santa Fe County Sheriff's Office,Gunshot,No known charges,No,fence post,other,not fleeing,Allegedly Armed
+186,Jose Benitez-Vasquez,32,Male,Hispanic,2021-07-06,Houston,TX,77087.0,Houston Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+187,Steven Adam Calderon,32,Male,White,2021-07-06,Paso Robles,CA,93446.0,"Paso Robles Police Department, San Luis Obispo Police Department",Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+188,Joseph D. McGrath,52,Male,White,2021-07-06,Carterville,IL,62918.0,Carterville Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+189,Shelby Ray Hardin,33,Male,White,2021-07-06,Danville,KY,40422.0,Danville Police Department,Gunshot,No known charges,No,knife,attack,,Allegedly Armed
+190,Eduardo Mendez Amezquita,28,Male,Hispanic,2021-07-05,San Antonio,TX,78207.0,San Antonio Police Department,Gunshot,No known charges,Unknown,gun,other,not fleeing,Allegedly Armed
+191,John Reuben Turbe,30,Male,Black,2021-07-04,Tampa,FL,33619.0,Tampa Police Department,Gunshot,No known charges,No,gun,attack,foot,Allegedly Armed
+192,Gulia Dale III,61,Male,Black,2021-07-04,Newton,NJ,7860.0,Newton Police Department,Gunshot,No known charges,No,undetermined,,,Unclear
+193,Matthew J. Morse,36,Male,Unknown race,2021-07-04,Ravenna Township,OH,44266.0,Portage County Sheriff's Office,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+194,Ricardo Torres,32,Male,Hispanic,2021-07-04,Olivia,MN,56277.0,Olivia Police Department,Gunshot,No known charges,No,undetermined,,,Unclear
+195,Craig Locklear,49,Male,White,2021-07-04,Salemburg,NC,28385.0,Sampson County Sheriff's Office,Gunshot,No known charges,No,gun,attack,other,Allegedly Armed
+196,Thomas Charles Billings,37,Male,White,2021-07-03,Traphill,NC,28685.0,Wilkes County Sheriff's Office,Gunshot,No known charges,No,pellet gun,other,not fleeing,Unarmed/Did Not Have Actual Weapon
+197,Jesus Rodriguez,23,Male,Hispanic,2021-07-01,Douglasville,GA,30135.0,Douglas County Sheriff's Office,Gunshot,No known charges,No,knife,other,foot,Allegedly Armed
+198,Shannon Earl Smith,45,Male,Black,2021-07-01,Spartanburg,SC,29303.0,"Spartanburg Police Department, Spartanburg County Sheriff's Office",Gunshot,No known charges,No,gun,,,Allegedly Armed
+199,Lisa A. Short,54,Female,White,2021-07-01,Kingsport,TN,37660.0,Kingsport Police Department,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+200,Joseph Lee Humbles,29,Male,Black,2021-06-30,Atlanta ,GA,30308.0,Atlanta Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+201,Jeremy Nelson,33,Male,Unknown race,2021-06-30,Florence,KY,41042.0,U.S. Marshals Service,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+202,John Hayden Inabinet,51,Male,White,2021-06-30,St. Matthews,SC,29135.0,Calhoun County Sheriff's Office,Gunshot,No known charges,No,undetermined,,,Unclear
+203,Philip Sanders,32,Male,White,2021-06-29,Corpus Christi,TX,78418.0,Corpus Christi Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+204,Larry Hunt,58,Male,White,2021-06-29,Bayard,NE,69334.0,Morrill County Sheriff's Office,Gunshot,No known charges,No,undetermined,,,Unclear
+205,Jerome Barber,59,Male,Black,2021-06-28,Azusa ,CA,91702.0,Azusa Police Department,Gunshot,No known charges,No,knife,other,not fleeing,Allegedly Armed
+206,Name withheld by police,Unknown,Male,Unknown race,2021-06-28,Arleta,CA,91331.0,Los Angeles Police Department,Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+207,Name withheld by police,Unknown,Male,Unknown race,2021-06-28,Hemet,CA,92543.0,Hemet Police Department,Gunshot,No known charges,No,no object,other,foot,Unarmed/Did Not Have Actual Weapon
+208,Robert Alire,Unknown,Male,Unknown race,2021-06-28,Commerce City,CO,80022.0,Commerce City Police Department,Gunshot,No known charges,Yes,knife,attack,not fleeing,Allegedly Armed
+209,Tristan Trevino,24,Male,Unknown race,2021-06-28,Corpus Christi,TX,78415.0,Corpus Christi Police Department,Gunshot,No known charges,No,gun,other,not fleeing,Allegedly Armed
+210,Soobleej Kaub Hawj Hawj,35,Male,Asian,2021-06-28,Weed,CA,96094.0,"Siskiyou County Sheriff's Office, California Department of Fish and Wildlife, Etna Police Department",Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+211,Oscar Najera,25,Male,Hispanic,2021-06-27,Roswell,NM,88203.0,Chaves County Sheriff's Office,Gunshot,No known charges,No,gun,other,other,Allegedly Armed
+212,Nicole Dechant,29,Female,White,2021-06-27,Plainville,KS,67663.0,Plainville Police Department,Gunshot,No known charges,No,gun,other,not fleeing,Allegedly Armed
+213,Stephen Winder,39,Male,White,2021-06-27,Graham,TX,76450.0,Young County Sheriff's Office,Gunshot,No known charges,Yes,gun,other,not fleeing,Allegedly Armed
+214,Nathan Allen,28,Male,White,2021-06-26,Winthrop,MA,2152.0,Winthrop Police Department,Gunshot,No known charges,No,gun,,,Allegedly Armed
+215,Don Crowson,37,Male,Unknown race,2021-06-26,Texarkana,AR,71854.0,Texarkana Police Department,Gunshot,No known charges,Drug or Alcohol Use,undetermined,other,not fleeing,Unclear
+216,Roberto Acosta-Reyes,61,Male,Hispanic,2021-06-26,Abilene,TX,79601.0,Abilene Police Department,Gunshot,No known charges,Yes,gun,other,not fleeing,Allegedly Armed
+217,Dwayne Michael Fields,34,Male,White,2021-06-25,Fife,WA,98424.0,Pierce County Sheriff's Office,Gunshot,No known charges,No,undetermined,other,car,Unclear
+218,Dennis Delgado,60,Male,White,2021-06-25,Kansas City,KS,66106.0,Kansas City Police Department,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+219,Michael Anthony Frederick,54,Male,White,2021-06-25,McDonald,TN,37353.0,Bradley County Sheriff's Office,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+220,Albert Wayne Finnie Jr.,22,Male,Black,2021-06-25,College Station,TX,77840.0,College Station Police Department,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+221,Reginal Ray Hansen,75,Male,Unknown race,2021-06-25,Grand Junction,CO,81501.0,"Grand Junction Police Department, Mesa County Sheriff's Office",Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+222,David Leon Fann,24,Male,White,2021-06-25,Lander,WY,82520.0,Wyoming Highway Patrol,Gunshot,No known charges,Unknown,gun,attack,not fleeing,Allegedly Armed
+223,Dimitri Lanahan,23,Male,White,2021-06-25,Fairbanks,AK,99709.0,Alaska State Troopers,Gunshot,No known charges,No,toy weapon,other,not fleeing,Unarmed/Did Not Have Actual Weapon
+224,Michael Ray Townsend,40,Male,White,2021-06-24,Portland,OR,97232.0,Portland Police Department,Gunshot,No known charges,Yes,undetermined,undetermined,not fleeing,Unclear
+225,Steven Jesse Dylan Thompson,29,Male,White,2021-06-24,Auburn,GA,30011.0,"Barrow County Sheriff's Office, Auburn Police Department",Gunshot,No known charges,No,gun,other,car,Allegedly Armed
+226,Yonatan Aguilera,40,Male,Hispanic,2021-06-24,Cumming,GA,30028.0,Forsyth County Sheriff's Office,Gunshot,No known charges,No,gun,other,not fleeing,Allegedly Armed
+227,Ted Frank Tippy,52,Male,White,2021-06-24,Monroe,GA,30656.0,Walton County Sheriff's Office,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+228,Abraham Torres Meza,30,Male,Hispanic,2021-06-24,Bakersfield,CA,93307.0,Bakersfield Police Department,Gunshot,No known charges,No,gun,other,other,Allegedly Armed
+229,Chad Necessary,48,Male,White,2021-06-24,Washington,NC,27889.0,Pitt County Sheriff's Office,Gunshot,No known charges,No,unknown weapon,other,,Allegedly Armed
+230,William Dean Hewitt,54,Male,White,2021-06-24,Whiteville,NC,28472.0,U.S. Marshals Service,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+231,Gary Deering,74,Male,White,2021-06-24,Greenfield,MO,65661.0,Dade County Sheriff's Office,Gunshot,No known charges,Yes,gun,undetermined,not fleeing,Allegedly Armed
+232,David Ronald Bridgette,45,Male,White,2021-06-24,Iron River,MI,49935.0,"Iron County Sheriff's Office, Iron River Police Department",Gunshot,No known charges,No,undetermined,,,Unclear
+233,Fred Holder,28,Male,Black,2021-06-23,Norwalk,CA,90703.0,Los Angeles County Sheriff's Department,Gunshot,No known charges,No,unknown object,other,car,Unclear
+234,Michael Lee Gerhart,22,Male,White,2021-06-23,Surprise,AZ,85374.0,Maricopa County Sheriff's Office,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+235,Name withheld by police,Unknown,Male,Unknown race,2021-06-23,Fontana,CA,92337.0,California Highway Patrol ,Gunshot,No known charges,No,undetermined,,,Unclear
+236,Earl Fitzgerald Hunter,40,Male,Black,2021-06-23,Greenville,SC,29644.0,Greenville County Sheriff's Office,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+237,Nathan Roybal,32,Male,White,2021-06-23,Santa Fe,NM,87507.0,Santa Fe County Sheriff's Office,Gunshot,No known charges,No,"gun, vehicle",attack,car,Allegedly Armed
+238,Francisco Javier Lino-Gutierrez,29,Male,Hispanic,2021-06-23,Santa Fe,NM,87501.0,Santa Fe County Sheriff's Office,Gunshot,No known charges,No,gun,attack,foot,Allegedly Armed
+239,Robert Alan Blackburn,39,Male,White,2021-06-23,Walnut,MS,38683.0,Alcorn County Sheriff's Office,"Gunshot, Taser",No known charges,Yes,knife,attack,foot,Allegedly Armed
+240,Willie Salazar,33,Male,Hispanic,2021-06-22,Murray,UT,84107.0,Murray Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+241,Noah Sharp,26,Male,White,2021-06-22,De Soto,MO,63020.0,De Soto Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+242,Alexander Matthew Collins,27,Male,White,2021-06-22,Covington,GA,30016.0,Newton County Sheriff's Office,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+243,Michael Wolski,57,Male,Unknown race,2021-06-22,New Berlin,WI,53151.0,New Berlin Police Department,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+244,De'Shon Hill,39,Male,Black,2021-06-22,Luray,VA,22835.0,"Luray Police Department, Shenandoah Police Department, Page County Sheriff's Office, National Park Police",Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+245,John Hurley,40,Male,White,2021-06-21,Arvada,CO,80002.0,Arvada Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+246,Noah Hunter Brittain,17,Male,White,2021-06-21,Lonoke,AR,72023.0,Lonoke County Sheriff's Office,Gunshot,No known charges,No,no object,,,Unarmed/Did Not Have Actual Weapon
+247,Virgil Lee Taylor,31,Male,White,2021-06-21,Hamilton,MI,49419.0,Michigan State Police,Gunshot,No known charges,No,undetermined,,not fleeing,Unclear
+248,Dario Dominguez,25,Male,Hispanic,2021-06-20,Kansas City,KS,66104.0,Kansas City Police Department,Gunshot,No known charges,No,gun,attack,other,Allegedly Armed
+249,Mickey Ray Rice,31,Male,White,2021-06-20,Robbinsville,NC,28771.0,Graham County Sheriff's Office,Gunshot,No known charges,No,BB gun,,,Unarmed/Did Not Have Actual Weapon
+250,Tyler Hodge,28,Male,White,2021-06-19,Wichita,KS,67217.0,Wichita Police Department,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+251,Jeff Melvin,20,Male,Black,2021-06-19,Salem,AL,36874.0,"Lee County Sheriff's Office, Alabama Law Enforcement Agency",Gunshot,No known charges,Yes,gun,attack,,Allegedly Armed
+252,Briana Sykes,19,Female,Black,2021-06-19,Flint,MI,48505.0,Flint Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+253,Eric Scott Anderson,40,Male,Unknown race,2021-06-18,Encinitas,CA,92024.0,San Diego County Sheriff's Office,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+254,Carlos Jackson,43,Male,Unknown race,2021-06-18,Lithia Springs,GA,30122.0,Douglasville Police Department,Gunshot,No known charges,No,gun,other,foot,Allegedly armed
+255,Daniel Buckingham,31,Male,White,2021-06-18,Hilo,HI,96720.0,Hawaii County Police Department,Gunshot,No known charges,No,knife,attack,not fleeing,Allegedly Armed
+256,Ansy Dolce,29,Male,Black,2021-06-17,Holly Springs,GA,30115.0,Holly Springs Police Department,Gunshot,No known charges,No,vehicle,attack,not fleeing,Vehicle
+257,Daniel Ray,35,Male,Unknown race,2021-06-17,Covington,KY,41015.0,Covington Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+258,Jermaine Sonnier,19,Male,Black,2021-06-16,Houston,TX,77081.0,Houston Police Department,Taser,No known charges,Drug or Alcohol Use,undetermined,,foot,Unclear
+259,Name withheld by police,Unknown,Male,Unknown race,2021-06-16,Leonia,NJ,7605.0,U.S. Federal Bureau of Investigation,Gunshot,No known charges,No,undetermined,,,Unclear
+260,Billy Barker,44,Male,White,2021-06-16,Bessemer City,NC,28016.0,Bessemer City Police Department,Gunshot,No known charges,No,undetermined,other,foot,Unclear
+261,Kendall A. Jamerson,35,Male,White,2021-06-16,Vesuvius,VA,24483.0,Virginia State Police,Gunshot,No known charges,No,gun,attack,other,Allegedly Armed
+262,David Aaron King,40,Male,White,2021-06-16,Harrison,AR,72601.0,"Harrison Police Department, Boone County Sheriff's Office",Gunshot,No known charges,No,knife,other,not fleeing,Allegedly armed
+263,Zachary Minissale,34,Male,White,2021-06-16,Eureka,NV,89316.0,Nevada Highway Patrol,Gunshot,No known charges,No,gun,attack,car,Allegedly armed
+264,John Earle Barnes,Unknown,Male,White,2021-06-16,Alford ,FL,32420.0,Jackson County Sheriff's Office,Gunshot,No known charges,Yes,toy weapon,,not fleeing,Unarmed/Did Not Have Actual Weapon
+265,Juan Miguel Bejar,37,Male,Hispanic,2021-06-15,Perris,CA,92571.0,Riverside County Sheriff's Department,Gunshot,No known charges,No,"gun, vehicle",attack,other,Allegedly armed
+266,Nathaniel Damien Raabe,48,Male,White,2021-06-15,Westmoreland,TN,37186.0,Macon County Sheriff's Office,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+267,Solomon Jamison,28,Male,Black,2021-06-15,Jackson,MS,39206.0,Jackson Police Department,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+268,Perry Boyd,56,Male,White,2021-06-15,Wolcott,IN,47995.0,Wolcott Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+269,Adam Michael Green,40,Male,White,2021-06-14,Hermitage,TN,37076.0,Mt. Juliet Police Department,Taser,No known charges,Drug or Alcohol Use,no object,other,not fleeing,Unarmed/Did Not Have Actual Weapon
+270,Armonda Contreras,43,Male,Hispanic,2021-06-14,Birmingham,AL,35206.0,Birmingham Police Department,Gunshot,No known charges,No,no object,other,,Unarmed/Did Not Have Actual Weapon
+271,Manuel Rojas Barajas,65,Male,Hispanic,2021-06-14,Calexico,CA,92231.0,Calexico Police Department,Gunshot,No known charges,No,knife,attack,not fleeing,Allegedly Armed
+272,Evin Kimberly Payne,54,Male,Unknown race,2021-06-14,Abbeville,SC,29655.0,Abbeville County Sheriff's Office,Gunshot,No known charges,No,undetermined,other,not fleeing,Unclear
+273,Anthony Hannon,52,Male,White,2021-06-14,Pittsfield,NH,3263.0,"Pittsfield Police Department, Concord Police Department, Henniker Police Department",Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+274,Duane Manzanares Jr.,30,Male,Hispanic,2021-06-13,Denver,CO,80220.0,Denver Police Department,Gunshot,No known charges,Drug or Alcohol Use,gun,other,not fleeing,Allegedly Armed
+275,Luis Rey Ruiz,20,Male,Hispanic,2021-06-13,Acworth,GA,30101.0,Cobb County Police Department,Gunshot,No known charges,No,gun,attack,foot,Allegedly Armed
+276,Joe Ruiz,25,Male,Hispanic,2021-06-13,Bakersfield,CA,93307.0,Bakersfield Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly armed
+277,Ryan Santos,34,Male,Pacific Islander,2021-06-13,Hilo,HI,96720.0,Hawaii Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+278,Christopher VanKleeck,31,Male,White,2021-06-12,Wallkill,NY,10940.0,Wallkill Police Department,Gunshot,No known charges,No,undetermined,,,Unclear
+279,Kenneth Earl Mackey,44,Male,Unknown race,2021-06-12,Barstow,CA,92311.0,Barstow Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly armed
+280,William Kradlak ,70,Male,White,2021-06-11,Watsontown,PA,17777.0,Pennsylvania State Police,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+281,Rezek Yaqub Yahya,39,Male,Black,2021-06-10,Salt Lake City,UT,84101.0,Salt Lake City Police Department,Gunshot,No known charges,No,knife,attack,not fleeing,Allegedly Armed
+282,Calvin Elmore,53,Male,Unknown race,2021-06-10,Fulshear,TX,77441.0,Fulshear Police Department,Gunshot,No known charges,No,vehicle,attack,car,Vehicle
+283,Name withheld by police,Unknown,Male,Unknown race,2021-06-10,,AL,,Walker County Sheriff's Office,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+284,Gregory Hambric,64,Male,White,2021-06-10,Jasper,AL,35504.0,Walker County Sheriff's Office,Gunshot,No known charges,No,gun,other,,Allegedly armed
+285,Josiah L. Byard,21,Male,Black,2021-06-10,Willcox,AZ,85643.0,Arizona Department of Public Safety,Gunshot,No known charges,No,gun,attack,car,Allegedly armed
+286,Michael Lee Ross Jr.,32,Male,Black,2021-06-09,Forest Hill,TX,76119.0,Forest Hill Police Department,Gunshot,No known charges,No,knife,other,foot,Allegedly armed
+287,Terrell Gas,36,Male,Black,2021-06-09,College Park,GA,30337.0,Georgia State Patrol,Gunshot,No known charges,No,gun,other,other,Allegedly Armed
+288,Juan DeLeCruz Rodriguez,58,Male,Hispanic,2021-06-09,Yucca Valley,CA,92284.0,San Bernardino County Sheriff's Office,Gunshot,No known charges,No,vehicle/knife,attack,,Vehicle
+289,Luis Nathan Leyba,38,Male,White,2021-06-08,Espanola,NM,87532.0,Espanola Police Department,Gunshot,No known charges,Unknown,vehicle,attack,car,Vehicle
+290,Kevin Christopher Caldwell,33,Male,White,2021-06-08,Columbus,GA,31906.0,"Troup County Sheriff's Office, Harris County Sheriff's Office, Columbus Police Department, Muscogee County Sheriff's Office, Georgia State Patrol",Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+291,Lee Waskiewicz,47,Male,White,2021-06-07,Bayonne,NJ,7002.0,Bayonne Police Department,Gunshot,No known charges,Yes,knife,other,,Allegedly Armed
+292,Crystal Renee Guhr,42,Female,White,2021-06-07,Garden City,MO,64747.0,Cass County Sheriff's Office,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+293,Jeremiah Lee Wright,44,Male,White,2021-06-07,Happy Valley,OR,97086.0,Clackamas County Sheriff's Office,Gunshot,No known charges,No,undetermined,other,other,Unclear
+294,Antonio Diaz,39,Male,Hispanic,2021-06-07,Round Rock,TX,78664.0,Round Rock Police Department,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+295,Clay Willingham,32,Male,Unknown race,2021-06-07,Jefferson City,MO,65109.0,Jefferson City Police Department,Gunshot,No known charges,No,gun,other,not fleeing,Allegedly Armed
+296,Daniel Ojeda,47,Male,Hispanic,2021-06-07,Scottsbluff,NE,69361.0,Scottsbluff Police Department,Gunshot,No known charges,No,undetermined,,,Unclear
+297,Name withheld by police,Unknown,Male,Hispanic,2021-06-06,Tulsa,OK,74106.0,Tulsa Police Department,Gunshot,No known charges,Unknown,gun,attack,not fleeing,Allegedly Armed
+298,Jose Angel Ibarra Ruiz,24,Male,Hispanic,2021-06-05,Needville,TX,77461.0,Fort Bend County Sheriff's Office,Gunshot,No known charges,No,knife,other,,Allegedly Armed
+299,Stephen Neil Weigand,29,Male,Unknown race,2021-06-05,Griffin,GA,30223.0,Lovejoy Police Department,Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+300,Jamison Weeden,28,Male,Unknown race,2021-06-05,Okmulgee,OK,74447.0,Okmulgee Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+301,Muang Tway,34,Male,Asian,2021-06-05,Green Forest,AR,72638.0,Green Forest Police Department,Gunshot,No known charges,No,knife,other,,Allegedly Armed
+302,Colton Frederic Wagner,31,Male,Unknown race,2021-06-04,Denver,CO,80207.0,Denver Police Department,Gunshot,No known charges,Unknown,gun,attack,not fleeing,Allegedly Armed
+303,Timothy Flowers,Unknown,Male,Unknown race,2021-06-04,Rochester,NY,14621.0,Rochester Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+304,Andrew Homen,34,Male,Black,2021-06-04,Braintree,MA,2184.0,Braintree Police Department,Gunshot,No known charges,Unknown,gun,attack,foot,Allegedly Armed
+305,Raymond Edwards,45,Male,Unknown race,2021-06-04,Tucson ,AZ,85710.0,Tucson Police Department,Gunshot,No known charges,No,sharp objects,other,not fleeing,Allegedly Armed
+306,Jerry Henley,42,Male,Unknown race,2021-06-04,Hilham,TN,38568.0,Overton County Sheriff's Office,Gunshot,No known charges,No,undetermined,,,Unclear
+307,Name withheld by police,Unknown,Male,Unknown race,2021-06-04,Whittier,CA,90602.0,Whittier Police Department,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+308,Winston Smith,32,Male,Black,2021-06-03,Minneapolis,MN,55408.0,U.S. Marshals Service,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+309,William Brookins Sr.,39,Male,Black,2021-06-03,Phoenix,AZ,85015.0,Phoenix Police Department,Gunshot,No known charges,No,gun,other,not fleeing,Allegedly Armed
+310,Eugene Matthews,24,Male,Hispanic,2021-06-02,Arvada,CO,80005.0,Arvada Police Department,Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+311,Timothy Andrew Kemp,34,Male,White,2021-06-02,Hot Springs,AR,,Arkansas State Troopers,"Gunshot, Taser",No known charges,No,gun,attack,other,Allegedly Armed
+312,Clayton Wayne Barbee,28,Male,White,2021-06-02,Cartwright,OK,74731.0,U.S. Marshals Service,Gunshot,No known charges,Yes,undetermined,,not fleeing,Unclear
+313,Jonathan Craig Thompson,Unknown,Male,Unknown race,2021-06-01,Independence,KY,41051.0,"Independence Police Department, Kenton County Police Department",Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+314,Christopher Dyess,43,Male,Unknown race,2021-06-01,Sumrall,MS,39482.0,Sumrall Police Department,Gunshot,No known charges,No,undetermined,,,Unclear
+315,Donald Myers,48,Male,White,2021-06-01,Ray City,GA,31645.0,Ray City Police Department,Gunshot,No known charges,No,knife,other,not fleeing,Allegedly Armed
+316,Robert Pearce,37,Male,Unknown race,2021-06-01,Berwick ,LA,70342.0,"Berwick Police Department, St. Mary Parish Sheriff's Office",Gunshot,No known charges,No,toy weapon,other,foot,Unarmed/Did Not Have Actual Weapon
+317,Name withheld by police,Unknown,Male,Unknown race,2021-05-31,Houston,TX,77002.0,Harris County Sheriff's Office,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+318,Roberto Zielinski,49,Male,Hispanic,2021-05-31,Milwaukee,WI,53215.0,Milwaukee Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+319,Name withheld by police,49,Male,Unknown race,2021-05-31,Milwaukee,WI,53215.0,Milwaukee Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+320,Demetrius Stanley,31,Male,Black,2021-05-31,San Jose,CA,95131.0,San Jose Police Department,Gunshot,No known charges,No,gun,other,not fleeing,Allegedly Armed
+321,Roger Dale Keller,71,Male,Unknown race,2021-05-31,Jemison,AL,35085.0,Jemison Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+322,Bilal Winston Shabazz,29,Male,Black,2021-05-31,Yucca Valley,CA,92284.0,San Bernardino County Sheriff's Office,Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+323,Joshua Lee Moore,33,Male,Unknown race,2021-05-31,Tucson ,AZ,85705.0,Tucson Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+324,Michael Jackson,29,Male,Unknown race,2021-05-31,Quimby,LA,71282.0,Louisiana State Police,Gunshot,No known charges,Yes,gun,other,car,Allegedly Armed
+325,Shannon Wright,29,Male,Unknown race,2021-05-30,Denver,CO,80223.0,Denver Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+326,Ryan Bernal,32,Male,Unknown race,2021-05-30,Louisville ,KY,40215.0,Louisville Metropolitan Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+327,Hank Miller,48,Male,Unknown race,2021-05-30,Antlers,OK,74523.0,Pushmataha County Sheriff's Office,Gunshot,No known charges,No,vehicle,other,car,Vehicle
+328,Name withheld by police,Unknown,Male,Unknown race,2021-05-29,Placentia,CA,92870.0,Placentia Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+329,Arnold Frazier Hager Jr.,37,Male,Unknown race,2021-05-28,Jacksonville,FL,32219.0,"Jacksonville Sheriff's Office, Florida Department of Law Enforcement",Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly armed
+330,Anthony Legens,36,Male,White,2021-05-28,Cedar Hill,MO,63016.0,Jefferson County Sheriff's Office,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly armed
+331,Efren Gomez,80,Male,Hispanic,2021-05-26,San Tan Valley,AZ,85142.0,Pinal County Sheriff's Office,Gunshot,No known charges,Unknown,scissors,other,not fleeing,Allegedly Armed
+332,James Sears,38,Male,White,2021-05-26,Columbia,MO,65203.0,Columbia Police Department,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+333,Devyn Walker,34,Male,Native American,2021-05-26,Holy Cross,AK,99602.0,Alaska State Troopers,Gunshot,No known charges,No,gun,other,not fleeing,Allegedly armed
+334,Darren Dejuan Chandler,34,Male,Black,2021-05-25,Lenexa,KS,66214.0,Lenexa Police Department,Gunshot,No known charges,No,undetermined,,,Unclear
+335,Vedo Hall,26,Male,Unknown race,2021-05-24,Washington,DC,20032.0,DC Metropolitan Police Department,Gunshot,No known charges,No,gun,attack,foot,Allegedly Armed
+336,Haven Bailey,25,Transgender,White,2021-05-24,Villa Park,IL,60181.0,Villa Park Police Department,Gunshot,No known charges,Yes,toy weapon,other,not fleeing,Unarmed/Did Not Have Actual Weapon
+337,Glen Ray Cockrum Jr.,29,Male,White,2021-05-24,Nogales,AZ,85621.0,"Nogales Police Department, Santa Cruz County Sheriff's Office",Gunshot,No known charges,No,undetermined,other,car,Unclear
+338,Roderick Devonne Merchant Jr.,21,Male,Unknown race,2021-05-23,College Station,TX,77840.0,College Station Police Department,Gunshot,No known charges,Unknown,gun,other,not fleeing,Allegedly Armed
+339,Juan Joseph Daniele Castellano,38,Male,Black,2021-05-23,Athens,GA,30601.0,Athens-Clarke Police Department,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+340,Name withheld by police,Unknown,Male,Unknown race,2021-05-23,,CA,,"Kings County Sheriff's Office, California Highway Patrol",Gunshot,No known charges,No,gun,other,car,Allegedly Armed
+341,Rufus James Ramsey,34,Male,Unknown race,2021-05-23,Parkersburg,WV,26101.0,Parkersburg Police Department,Gunshot,No known charges,No,knife,other,not fleeing,Allegedly Armed
+342,Timothy Jordan Snyder,27,Male,White,2021-05-23,Red Bud,IL,62278.0,Red Bud Police Department,Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+343,Edward James Shadder,55,Male,White,2021-05-23,Williams Township,PA,18042.0,Pennsylvania State Police,"Gunshot, Taser",No known charges,No,no object,other,not fleeing,Unarmed/Did Not Have Actual Weapon
+344,Kody C Waters,31,Male,Unknown race,2021-05-22,Troy,IL,62294.0,Troy Police Department,Gunshot,No known charges,Yes,gun,other,not fleeing,Allegedly Armed
+345,Adam Hartley,50,Male,White,2021-05-22,Linwood,NC,27299.0,Davidson County Sheriff's Office,Gunshot,No known charges,No,"gun, knife",other,,Allegedly Armed
+346,Steve Newsome,31,Male,Unknown race,2021-05-22,Adel,GA,31620.0,Adel Police Department,Gunshot,No known charges,No,gun,attack,foot,Allegedly Armed
+347,Johnny Owen King,63,Male,Unknown race,2021-05-22,Beaver Township,MI,49309.0,Michigan State Police,Gunshot,No known charges,No,undetermined,other,not fleeing,Unclear
+348,Name withheld by police,Unknown,Male,Unknown race,2021-05-21,Houston,TX,77074.0,Houston Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+349,Name withheld by police,Unknown,Male,Unknown race,2021-05-21,Norwood,LA,70761.0,East Feliciana Parish Sheriff's Office,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+350,Kortnee Lashon Warren,23,Male,Black,2021-05-21,Albany,GA,31701.0,Albany Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+351,Patrick Watkins,31,Male,Black,2021-05-20,Pittsburg,CA,94565.0,Pittsburg Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+352,Jesse Bonsignore,44,Male,Unknown race,2021-05-20,Manorville,NY,11949.0,Suffolk County Police Department,Gunshot,No known charges,No,knife,other,not fleeing,Allegedly Armed
+353,Brandon S. Odell,31,Male,White,2021-05-20,Bristol,VA,24202.0,Washington County Sheriff's Office,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+354,Raul Rosas-Carsosa,52,Male,Hispanic,2021-05-19,Denver,CO,80219.0,Denver Police Department,Gunshot,No known charges,No,knife,other,not fleeing,Allegedly Armed
+355,Robert Nazmi Rouhman Jr.,19,Male,Unknown race,2021-05-19,Mulliken,MI,48861.0,Ionia County Sheriff's Office,Gunshot,No known charges,No,vehicle,other,car,Vehicle
+356,Darion M. Lafayette,24,Male,Black,2021-05-19,Champaign,IL,61820.0,Champaign Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+357,Caleb Grisenti,22,Male,Unknown race,2021-05-18,Englewood,CO,80113.0,Englewood Police Department,Gunshot,No known charges,No,vehicle,attack,car,Vehicle
+358,Timothy James Hogland,32,Male,White,2021-05-18,Hayden,AL,35180.0,"Alabama State Troopers, Blount County Sheriff's Office, Graysville Police Department",Gunshot,No known charges,No,gun,attack,"car, foot",Allegedly Armed
+359,Tyrone Penny,21,Male,Black,2021-05-18,Decatur,GA,30030.0,Chamblee Police Department,Gunshot,No known charges,No,undetermined,,,Unclear
+360,Gary Moncrief,32,Male,Black,2021-05-18,Montgomery,AL,36117.0,Montgomery Police Department,Gunshot,No known charges,No,undetermined,,,Unclear
+361,Xander Mann,16,Male,Unknown race,2021-05-18,Modesto ,CA,95357.0,Stanislaus County Sheriff's Office,Gunshot,No known charges,No,undetermined,other,car,Unclear
+362,Name withheld by police,32,Male,White,2021-05-18,Wimer,OR,97537.0,Jackson County Sheriff's Office,Gunshot,No known charges,No,undetermined,undetermined,car,Unclear
+363,Name withheld by police,Unknown,Male,Unknown race,2021-05-17,Monterey Park,CA,91754.0,Monterey Park Police Department,Gunshot,No known charges,Unknown,knife,other,not fleeing,Allegedly Armed
+364,Garrett Sheppard,32,Male,White,2021-05-17,Peoria,AZ,85305.0,Peoria Police Department,Gunshot,No known charges,No,undetermined,other,,Unclear
+365,Denzell Nathan Clarke,28,Male,Black,2021-05-17,Waldorf,MD,20601.0,Charles County Sheriff's Office,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+366,Xavier Kilby,35,Male,Unknown race,2021-05-17,Dickinson ,ND,58601.0,Dickinson Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+367,Lantz Stephenson Jr.,17,Male,White,2021-05-16,Grandview,MO,64030.0,Grandview Police Department,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+368,Timothy Fleming,49,Male,Black,2021-05-16,Baltimore,MD,21213.0,Baltimore Police Department,Gunshot,No known charges,No,knife,other,,Allegedly Armed
+369,Deven Telford,34,Male,White,2021-05-16,Omaha,NE,68107.0,Omaha Police Department,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+370,Brian Timothy Dunne,39,Male,Unknown race,2021-05-15,Birmingham,AL,35205.0,Birmingham Police Department,Gunshot,No known charges,No,gun,undetermined,,Allegedly Armed
+371,Cedrick Vick,22,Male,Unknown race,2021-05-14,Denver,CO,80219.0,Denver Police Department,Gunshot,No known charges,No,gun,other,car,Allegedly Armed
+372,Monolito Ford,48,Male,Black,2021-05-14,Indianapolis ,IN,46226.0,Indianapolis Metropolitan Police Department,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+373,Mark Gaskill,28,Male,White,2021-05-14,Rochester,NY,14606.0,Rochester Police Department,Gunshot,No known charges,No,gun,other,car,Allegedly Armed
+374,Silvestre Vargas Estrada,26,Male,Hispanic,2021-05-14,Campo,CA,91906.0,U.S. Border Patrol,Gunshot,No known charges,No,undetermined,,car,Unclear
+375,Jeffrey Bruce,48,Male,White,2021-05-14,Grottoes,VA,24441.0,Augusta County Sheriff's Office,Gunshot,No known charges,No,knife,other,foot,Allegedly Armed
+376,Name withheld by police,Unknown,Male,Unknown race,2021-05-14,Central Pennington,SD,57703.0,Pennington County Sheriff's Office,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+377,Aaron Schneider,33,Male,White,2021-05-14,Fremont,NE,68025.0,Fremont Police Department,Gunshot,No known charges,Yes,gun,attack,,Allegedly Armed
+378,Adrian Murillo,19,Male,Hispanic,2021-05-13,Alvarado,TX,76009.0,"Texas Department of Public Safety, Hill County Constable's Office Precinct 4",Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+379,Michael Alvarez,44,Male,Hispanic,2021-05-12,Bakersfield,CA,93234.0,"California Highway Patrol, Bakersfield Police Department",Taser,No known charges,No,undetermined,,,Unclear
+380,Christian Castro,27,Male,Hispanic,2021-05-11,Boynton Beach,FL,33436.0,Boynton Beach Police Department,Gunshot,No known charges,No,"knife, hammer",undetermined,,Allegedly Armed
+381,Lance Lowe,30,Male,Black,2021-05-11,Stockton,CA,95207.0,Stockton Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+382,Edward Zamora Giron,37,Male,White,2021-05-10,San Luis Obispo,CA,93401.0,San Luis Obispo Police Department,Gunshot,No known charges,No,undetermined,,,Unclear
+383,Kalon Horton,29,Male,Black,2021-05-09,Lancaster,TX,75134.0,Lancaster Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+384,Maxwell Jerome Davis,28,Male,White,2021-05-09,Glendale,AZ,85301.0,Glendale Police Department,Gunshot,No known charges,No,gun,attack,foot,Allegedly Armed
+385,Jeffrey Mark Murray,62,Male,Unknown race,2021-05-09,Greenville,SC,29607.0,Greenville Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+386,Zachary Richardson,24,Male,White,2021-05-09,Leicester,MA,1524.0,Leicester Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+387,Daniel Hobbs,34,Male,White,2021-05-08,Oklahoma City,OK,73112.0,Oklahoma City Police Department,Gunshot,No known charges,Yes,no object,other,not fleeing,Unarmed/Did Not Have Actual Weapon
+388,Felix Jerry Marquez,34,Male,Hispanic,2021-05-08,Riverside,CA,92506.0,Riverside Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+389,Everton Brown,56,Male,Unknown race,2021-05-08,Baltimore,MD,21244.0,Baltimore County Police Department,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+390,Adonis Traughber,54,Male,Black,2021-05-08,Clarksville,TN,37040.0,Clarksville Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+391,Joseph Ventre,34,Male,White,2021-05-07,Providence,RI,2906.0,Providence Police Department,Physical Restraint,No known charges,Drug or Alcohol Use,no object,,not fleeing,Unarmed/Did Not Have Actual Weapon
+392,Name withheld by police,Unknown,Male,Unknown race,2021-05-07,Perris,CA,92570.0,Riverside County Sheriff's Department,Gunshot,No known charges,No,crowbar,,,Allegedly Armed
+393,Robbie Leigh Hodge,52,Male,White,2021-05-07,Rutledge,TN,37861.0,"Bean Station Police Department, Rutledge Police Department",Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+394,Thomas Joseph Roeber,42,Male,White,2021-05-06,Casper,WY,82601.0,Casper Police Department,Gunshot,No known charges,No,undetermined,,car,Unclear
+395,Mark Aitulagi Lavea,47,Male,White,2021-05-06,San Andreas,CA,95249.0,Calaveras County Sheriff's Office,Gunshot,No known charges,No,gun,other,not fleeing,Allegedly Armed
+396,William Holt,49,Male,White,2021-05-05,Las Vegas,NV,89104.0,Las Vegas Metropolitan Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+397,Edwin Joseph Castillo,34,Male,Hispanic,2021-05-05,Winston-Salem,NC,27103.0,Winston-Salem Police Department,Gunshot,No known charges,Unknown,gun,attack,not fleeing,Allegedly Armed
+398,Ashton Pinke,27,Male,Black,2021-05-04,Mesquite,TX,75150.0,Mesquite Police Department,Gunshot,No known charges,Yes,undetermined,,,Unclear
+399,Latoya Denis James,37,Female,Black,2021-05-04,Woodbine,GA,31569.0,Camden County Sheriff's Office,Gunshot,No known charges,No,undetermined,,,Unclear
+400,Mariano Villegas,45,Male,Hispanic,2021-05-03,Glendale,AZ,85301.0,Glendale Police Department,Gunshot,No known charges,No,hand tools,other,not fleeing,Unclear
+401,Roy Gordon Cole,31,Male,White,2021-05-03,McLean,VA,22101.0,U.S. Federal Bureau of Investigation,Gunshot,No known charges,Unknown,gun,other,not fleeing,Allegedly Armed
+402,La'Mello Parker,1,Male,Black,2021-05-03,Biloxi,MS,39532.0,Biloxi Police Department,Gunshot,No known charges,No,no object,,,Unarmed/Did Not Have Actual Weapon
+403,Eric Derell Smith,30,Male,Black,2021-05-03,Biloxi,MS,39532.0,Biloxi Police Department,Gunshot,No known charges,No,gun,other,car,Allegedly Armed
+404,Anthony Williams,57,Male,White,2021-05-02,Hamilton Township,OH,45140.0,Hamilton Township Police Department,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+405,Jacob Griffin,23,Male,White,2021-05-01,Nashville,TN,37027.0,Metropolitan Nashville Police Department,Gunshot,No known charges,Yes,gun,attack,,Allegedly Armed
+406,Alexander Tuzinski,30,Male,Unknown race,2021-05-01,South Haven,IN,46385.0,Porter County Sheriff's Office,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+407,Bruce K. Pofahl,62,Male,White,2021-05-01,Green Bay,WI,54313.0,Green Bay Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+408,Dalton Buckholz,28,Male,White,2021-05-01,Canon City,CO,81212.0,Canon City Police Department,Gunshot,No known charges,No,undetermined,,,Unclear
+409,Terrance Maurice Parker,36,Male,Black,2021-04-30,Washington,DC,20024.0,DC Metropolitan Police Department,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+410,Hanad Abdiaziz,25,Male,Black,2021-04-30,Kansas City,MO,64124.0,Kansas City Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+411,Alfredo Aceves,64,Male,Hispanic,2021-04-29,Lake Los Angeles,CA,93591.0,Los Angeles County Sheriff's Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+412,Joe Robideau,21,Male,White,2021-04-29,Troy,MO,63379.0,"Lincoln County Sheriff's Office, Lake Saint Louis Police Department",Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+413,Oscar Herrera,32,Male,White,2021-04-28,Reading,MI,49274.0,Hillsdale County Sheriff's Office,Gunshot,No known charges,No,knife,other,not fleeing,Allegedly Armed
+414,Carlos Lopez-Melendez,50,Male,Hispanic,2021-04-27,Fullerton,CA,92805.0,Los Angeles Police Department,Gunshot,No known charges,No,gun,attack,other,Allegedly Armed
+415,Dalton James Gerrit Kooiman,20,Male,Unknown race,2021-04-27,Bakersfield,CA,93307.0,Bakersfield Police Department,Gunshot,No known charges,No,gun,attack,other,Allegedly Armed
+416,Marvin Veiga,32,Male,Black,2021-04-24,Nashville,TN,37218.0,Metropolitan Nashville Police Department,Gunshot,No known charges,No,knife,other,not fleeing,Allegedly Armed
+417,Richard Solitro,34,Male,White,2021-04-24,Los Angeles,CA,90046.0,Los Angeles Police Department,Gunshot,No known charges,Yes,no object,other,not fleeing,Unarmed/Did Not Have Actual Weapon
+418,Benjamin Ridley,29,Male,White,2021-04-24,Webbers Falls,OK,74470.0,Webbers Falls Police Department,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+419,Tory Casey,41,Male,Black,2021-04-23,Rosenberg,TX,77471.0,Rosenberg Police Department,Gunshot,No known charges,Yes,gun,other,,Allegedly Armed
+420,Edward Robbesom,52,Male,Unknown race,2021-04-23,Casa Grande,AZ,85122.0,Casa Grande Police Department,Gunshot,No known charges,No,gun,other,not fleeing,Allegedly Armed
+421,Michael Lee McClure,26,Male,Black,2021-04-23,Billings,MT,59106.0,Yellowstone County Sheriff's Office,Gunshot,No known charges,No,gun,attack,other,Allegedly Armed
+422,Richard Quintana,37,Male,Hispanic,2021-04-22,Colorado Springs,CO,80907.0,Colorado Springs Police Department,Gunshot,No known charges,Yes,gun,attack,not fleeing,Allegedly Armed
+423,Steven John Olson,59,Male,White,2021-04-21,Escondido,CA,92025.0,Escondido Police Department,Gunshot,No known charges,Yes,metal pole,other,not fleeing,Allegedly Armed
+424,Phet Gouvonvong,31,Male,Asian,2021-04-21,Worcester,MA,1604.0,Worcester Police Department,Gunshot,No known charges,No,gun,other,not fleeing,Allegedly Armed
+425,Andrew Brown,42,Male,Black,2021-04-21,Elizabeth City,NC,27909.0,Pasquotank County Sheriff's Office,Gunshot,No known charges,No,undetermined,undetermined,car,Unclear
+426,Brian Deleon,37,Male,Hispanic,2021-04-20,San Antonio,TX,78214.0,San Antonio Police Department,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+427,Terry Wayne Bishop,28,Male,White,2021-04-20,San Antonio,TX,78212.0,VIA Transit Police Department,Gunshot,No known charges,,undetermined,,,Unclear
+428,Name withheld by police,Unknown,Male,White,2021-04-20,Lakewood,CO,80226.0,Lakewood Police Department,Gunshot,No known charges,No,gun,other,,Allegedly Armed
+429,Ma'Khia Bryant,16,Female,Black,2021-04-20,Columbus,OH,43232.0,Columbus Police Department ,Gunshot,No known charges,No,knife,other,not fleeing,Allegedly Armed
+430,Mario Gonzalez,26,Male,Hispanic,2021-04-19,Alameda,CA,94501.0,Alameda Police Department,Physical Restraint,No known charges,Drug or Alcohol Use,no object,,not fleeing,Unarmed/Did Not Have Actual Weapon
+431,Edgar Luis Tirado,28,Male,White,2021-04-19,Dallas,TX,75251.0,Dallas Police Department,Gunshot,No known charges,Yes,toy weapon,other,foot,Unarmed/Did Not Have Actual Weapon
+432,Name withheld by police,Unknown,Male,Unknown race,2021-04-19,Highland Park,MI,48203.0,Detroit Police Department,Gunshot,No known charges,Yes,gun,attack,other,Allegedly Armed
+433,Robert Paul Garcia,38,Male,Hispanic,2021-04-19,Colorado Springs,CO,80920.0,"Colorado State Patrol, Fountain Police Department",Gunshot,No known charges,No,undetermined,,car,Unclear
+434,Antonio Cantu,52,Male,Hispanic,2021-04-19,Aransas Pass,TX,78336.0,Aransas Pass Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+435,Doward Sylleen Baker,39,Male,Black,2021-04-19,Dothan,AL,36301.0,Dothan Police Department,"Gunshot, Taser",No known charges,No,gun,attack,car,Allegedly Armed
+436,Name withheld by police,31,Male,Black,2021-04-18,Fort Worth,TX,76111.0,Fort Worth Police Department,Gunshot,No known charges,No,gun,other,foot,Allegedly Armed
+437,Name withheld by police,27,Male,Unknown race,2021-04-18,Eastpointe,MI,48205.0,Detroit Police Department,Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+438,Bradley Michael Olsen,30,Male,White,2021-04-18,Burnsville,MN,55337.0,Burnsville Police Department,Gunshot,No known charges,No,gun,attack,car,Allegedly Armed
+439,Dequan Cortez Glenn,24,Male,Black,2021-04-18,Douglasville,GA,30315.0,Douglasville Police Department,Gunshot,No known charges,No,gun,other,foot,Allegedly Armed
+440,Matthew Harry,26,Male,Pacific Islander,2021-04-17,Hayward,CA,94541.0,Alameda County Sheriff's Office,Gunshot,No known charges,No,gun,attack,,Allegedly Armed
+441,Larry Jenkins,52,Male,Black,2021-04-17,Winter Haven,FL,33884.0,Winter Haven Police Department,"Gunshot, Taser",No known charges,Drug or Alcohol Use,gun,other,not fleeing,Allegedly Armed
+442,Vadim A. Grishchuk,38,Male,White,2021-04-17,Spokane,WA,99201.0,Spokane Police Department,Gunshot,No known charges,No,gun,attack,not fleeing,Allegedly Armed
+443,Smoky Lynn Crockett,60,Male,White,2021-04-17,Fort Lupton,CO,80621.0,Weld County Sheriff's Office,Gunshot,No known charges,,gun,attack,not fleeing,Allegedly Armed
+444,Name withheld by police,,Male,Unknown race,2021-04-17,Kingman,AZ,86409.0,Mohave County Sheriff's Office,Gunshot,No known charges,No,vehicle,other,car,Vehicle
+445,Sammie Joe Barbosa,33,Male,Hispanic,2021-04-16,San Antonio,TX,78227.0,San Antonio Police Department,Gunshot,No known charges,No,undetermined,undetermined,not fleeing,Unclear
+446,Robert Douglas Delgado,46,Male,White,2021-04-16,Portland,OR,97266.0,Portland Police Bureau,Gunshot,No known charges,,toy weapon,other,,Unarmed/Did Not Have Actual Weapon
+447,Juan James Cordova,51,Male,Hispanic,2021-04-16,Albuquerque,NM,87114.0,Albuquerque Police Department,Gunshot,No known charges,No,gun,,not fleeing,Allegedly Armed

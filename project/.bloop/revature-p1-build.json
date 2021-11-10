@@ -201,7 +201,7 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "E:\\Program Files\\Java\\jdk-13.0.1",
+                "home": "C:\\Program Files (x86)\\Java\\jdk1.8.0_311\\jre",
                 "options": [
                     "-Duser.dir=C:\\Users\\ierp\\Desktop\\revature round 2 projects\\Revature-p1\\project"
                 ]

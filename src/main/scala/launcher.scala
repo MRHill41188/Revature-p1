@@ -16,7 +16,8 @@ object launcher extends App {
 
     println("Please Enter Your Selection")
     println(Console.BOLD+"1. Login")
-    println(Console.BOLD+"0. Close program")
+    println(Console.BOLD+"2. Update User Login")
+    println(Console.BOLD+"0. Close Program")
     readInt()
   }
 
@@ -36,7 +37,9 @@ object launcher extends App {
 
   def switchMenu(selection: Int): Unit = {
       selection match{
-                  case 1 => {adminLogin.showMenu()}
+                  case 1 => {loginScreen.showMenu()}
+                  case 2 => {changeUserInfo.showMenu()}
+                  case _ => {launcher.mainMenu()}
                   case 0 => {print(Console.BOLD+"Exiting program")}
       }
 

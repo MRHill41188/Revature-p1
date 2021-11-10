@@ -5,7 +5,6 @@ import java.sql.SQLException
 import java.sql.SQLTimeoutException
 import java.sql.PreparedStatement
 
-
 /**
  * A Scala JDBC connection example by Alvin Alexander,
  * https://alvinalexander.com
@@ -26,7 +25,7 @@ object connectionUtil {
 
 
 
-  def gameRecords() :Unit ={
+  def addUser(u: String, p :String) :Unit ={
     var connection: Connection = null
 
     try {
@@ -36,12 +35,12 @@ object connectionUtil {
 
       // create the statement, and run the select query
       val statement = connection.createStatement()
-      val resultSet = statement.executeQuery("SELECT * from game_record")
+      val resultSet = statement.executeQuery("insert into p1Users (userName, password, userType) VALUES "+ "('"+u+"',"+ "'"+p+"'"+ ",'basic')")
       while (resultSet.next()) {
-        val player_name = resultSet.getString("Player_name")
-        val record_name = resultSet.getString("Record_Name")
-        val stat = resultSet.getString("Stat")
-        println(player_name +" "+record_name+" "+ stat)
+       // val player_name = resultSet.getString("Player_name")
+       //val record_name = resultSet.getString("Record_Name")
+       // val stat = resultSet.getString("Stat")
+       // println(player_name +" "+record_name+" "+ stat)
 
       }
     } catch {
@@ -52,7 +51,7 @@ object connectionUtil {
     }
   }
 
-  def seasonalRecords() :Unit ={
+  def updateUser(u: String, p :String, nUser: String, nPass: String) :Unit ={
     var connection: Connection = null
 
     try {
@@ -62,12 +61,25 @@ object connectionUtil {
 
       // create the statement, and run the select query
       val statement = connection.createStatement()
-      val resultSet = statement.executeQuery("SELECT * from seasonal_record")
+      val resultSet = statement.executeQuery("select * from p1Users where userName = "+"'"+u+"'")
       while (resultSet.next()) {
-        val player_name = resultSet.getString("Player_name")
-        val record_name = resultSet.getString("Record_Name")
-        val stat = resultSet.getString("Stat")
-        println(player_name +" "+record_name+" "+ stat)
+        val userName = resultSet.getString("userName")
+        val password = resultSet.getString("password")
+
+        if(u == userName && p == password){
+         // println("update starting")
+          val sql = "update p1Users set userName = ?, password = ? where userName = ?"
+          val statement = connection.prepareStatement(sql)
+
+          statement.setString(3, u)
+          statement.setString(1, nUser)
+          statement.setString(2, nPass)
+
+          val result = statement.executeUpdate()
+          println(Console.BOLD+"Update Complete")
+          println("")
+        }
+
 
       }
     } catch {
@@ -77,7 +89,8 @@ object connectionUtil {
       connection.close()
     }
   }
-  def careerRecords() :Unit ={
+
+  def removeUser(u: String, p :String) :Unit ={
     var connection: Connection = null
 
     try {
@@ -102,7 +115,7 @@ object connectionUtil {
       connection.close()
     }
   }
-  def miscRecords() :Unit ={
+  def login(u: String, p :String) : Unit ={
     var connection: Connection = null
 
     try {
@@ -112,16 +125,30 @@ object connectionUtil {
 
       // create the statement, and run the select query
       val statement = connection.createStatement()
-      val resultSet = statement.executeQuery("SELECT * from misc_record")
+      val resultSet = statement.executeQuery("select * from p1Users where userName = "+"'"+u+"'")
       while (resultSet.next()) {
-        val player_name = resultSet.getString("Player_name")
-        val record_name = resultSet.getString("Record_Name")
-        val stat = resultSet.getString("Stat")
-        println(player_name +" "+record_name+" "+ stat)
+        val userName = resultSet.getString("userName")
+        val password = resultSet.getString("password")
+        val userType = resultSet.getString("userType")
+        //println("u " + u)
+        //println("username " + userName)
+        //println("p " + p)
+        //println("password " + password)
+        if(u == userName && p == password && userType == "admin"){
 
+          adminLogin.showMenu(userName)
+
+        } else if (u == userName && p == password && userType == "basic"){
+
+           basicLogin.showMenu(userName)
+
+        }
       }
     } catch {
       case e: Throwable => e.printStackTrace
+        //println("The username or password provided is incorrect")
+        //loginScreen.showMenu()
+
     }
     finally {
       connection.close()
