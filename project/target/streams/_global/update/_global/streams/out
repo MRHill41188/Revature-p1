@@ -1,3 +1,4 @@
-[debug] not up to date. inChanged = true, force = false
+[debug] not up to date. inChanged = false, force = false
 [debug] Updating ProjectRef(uri("file:/C:/Users/ierp/Desktop/revature%20round%202%20projects/Revature-p1/project/"), "revature-p1-build")...
+[warn] Unrecognized repository Scala Plugin Bundled Repository, ignoring it
 [debug] Done updating ProjectRef(uri("file:/C:/Users/ierp/Desktop/revature%20round%202%20projects/Revature-p1/project/"), "revature-p1-build")

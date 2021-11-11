@@ -15,38 +15,44 @@ object adminLogin {
       .enableHiveSupport()
       .getOrCreate()
     //println("created spark session")
+    spark.sparkContext.setLogLevel("OFF")
     Logger.getLogger("org").setLevel(Level.OFF)
     Logger.getLogger("akka").setLevel(Level.OFF)
     Logger.getLogger("org.apache.spark").setLevel(Level.OFF)
-
-    spark.sparkContext.setLogLevel("ERROR")
-    println(Console.BOLD + "Welcome admin " + userName)
-    println(Console.BOLD + "The results of the queries are being prepared, please wait")
-    println("")
+    Logger.getRootLogger.setLevel(Level.OFF)
+    //spark.sparkContext.setLogLevel("ERROR")
     spark.sql("DROP table IF EXISTS PoliceShooting")
     spark.sql("create table IF NOT EXISTS PoliceShooting(Id int,Victim_name varchar(255),Victim_age int,Victim_gender varchar(255),Victim_race varchar(255),Date_of_Incident date,City varchar(255),State varchar(255),Zipcode Int,Agency_responsible_for_death varchar(255),Cause_of_death varchar(255),Criminal_Charges varchar(255),Symptoms_of_mental_illness varchar(255),Alleged_Weapon varchar(255),Alleged_Threat_Level varchar(255),Fleeing varchar(255),Armed_Unarmed_Status varchar(255)) row format delimited fields terminated by ','")
     spark.sql("LOAD DATA LOCAL INPATH 'input/USPoliceViolence.csv' INTO TABLE PoliceShooting")
 
-
+    println(Console.BOLD + "Welcome admin " + userName)
+    println(Console.BOLD + "The results of the queries are being prepared, please wait")
+    println("")
     // 1
     println(Console.BOLD+"Top 5 cities with incident")
     spark.sql("SELECT City, COUNT(*) FROM PoliceShooting Group by(City) order by(COUNT(1)) DESC").show(5)
+    spark.sql("SELECT City, COUNT(*) FROM PoliceShooting Group by(City) order by(COUNT(1)) DESC limit(5)").write.format("org.apache.spark.sql.json").mode("overwrite").save("output\\cities")
     //2
     println(Console.BOLD+"number of incidents by race")
     spark.sql("SELECT victim_race, COUNT(*) FROM PoliceShooting Group by(victim_race) order by(COUNT(1)) DESC").show(5)
+    spark.sql("SELECT victim_race, COUNT(*) FROM PoliceShooting Group by(victim_race) order by(COUNT(1)) DESC limit(5)").write.format("org.apache.spark.sql.json").mode("overwrite").save("output\\race")
     //3
     println(Console.BOLD+"number of incidents by gender")
     spark.sql("SELECT victim_gender, COUNT(*) FROM PoliceShooting Group by(victim_gender) order by(COUNT(1)) DESC").show(4)
+    spark.sql("SELECT victim_gender, COUNT(*) FROM PoliceShooting Group by(victim_gender) order by(COUNT(1)) DESC limit(4)").write.format("org.apache.spark.sql.json").mode("overwrite").save("output\\gender")
     //4
     println(Console.BOLD+"number of incidents per year")
     spark.sql("SELECT year(date_of_incident), COUNT(*) FROM PoliceShooting Group by(year(date_of_incident)) order by(year(date_of_incident)) DESC").show()
+    spark.sql("SELECT year(date_of_incident), COUNT(*) FROM PoliceShooting Group by(year(date_of_incident)) order by(year(date_of_incident)) DESC limit(8)").write.format("org.apache.spark.sql.json").mode("overwrite").save("output\\incident_by_year")
     //5
     println(Console.BOLD+"Number of incident with armed vs unarmed suspects")
     spark.sql("SELECT Armed_Unarmed_Status, COUNT(*) FROM PoliceShooting Group by(Armed_Unarmed_Status) order by(COUNT(1)) DESC").show(5)
+    spark.sql("SELECT Armed_Unarmed_Status, COUNT(*) FROM PoliceShooting Group by(Armed_Unarmed_Status) order by(COUNT(1)) DESC limit(5)").write.format("org.apache.spark.sql.json").mode("overwrite").save("output\\armed_status")
     //6
     println(Console.BOLD+"estimated number of incidents in 2022")
     spark.sql("SELECT Floor(COUNT(*)/9) as Estimated_Incidents_2022 FROM PoliceShooting").show()
-
+    spark.sql("SELECT Floor(COUNT(*)/9) as Estimated_Incidents_2022 FROM PoliceShooting").write.format("org.apache.spark.sql.json").mode("overwrite").save("output\\Estimate_2022")
+    println("")
     pressEnterToContinue()
 
   }
