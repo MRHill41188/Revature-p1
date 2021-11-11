@@ -201,7 +201,7 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "C:\\Program Files (x86)\\Java\\jdk1.8.0_311\\jre",
+                "home": "C:\\Users\\ierp\\.jdks\\corretto-1.8.0_312\\jre",
                 "options": [
                     "-Duser.dir=C:\\Users\\ierp\\Desktop\\revature round 2 projects\\Revature-p1\\project"
                 ]
