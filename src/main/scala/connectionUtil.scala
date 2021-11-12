@@ -11,6 +11,8 @@ import java.sql.PreparedStatement
  */
 object connectionUtil {
 
+   var success = false
+
     // provide driver, url, username, password for the database
     val driver = "com.mysql.jdbc.Driver"
     //val url = "jdbc:mysql://localhost:3306/databasetest"
@@ -22,34 +24,6 @@ object connectionUtil {
     val password = System.getenv("JDBC_PASSWORD")
 
     // there's probably a better way to do this
-
-
-
-  def addUser(u: String, p :String) :Unit ={
-    var connection: Connection = null
-
-    try {
-      // make the connection
-      //
-      connection = DriverManager.getConnection(url, username, password)
-
-      // create the statement, and run the select query
-      val statement = connection.createStatement()
-      val resultSet = statement.executeQuery("insert into p1Users (userName, password, userType) VALUES "+ "('"+u+"',"+ "'"+p+"'"+ ",'basic')")
-      while (resultSet.next()) {
-       // val player_name = resultSet.getString("Player_name")
-       //val record_name = resultSet.getString("Record_Name")
-       // val stat = resultSet.getString("Stat")
-       // println(player_name +" "+record_name+" "+ stat)
-
-      }
-    } catch {
-      case e: Throwable => e.printStackTrace
-    }
-    finally {
-      connection.close()
-    }
-  }
 
   def updateUser(u: String, p :String, nUser: String, nPass: String) :Unit ={
     var connection: Connection = null
@@ -68,6 +42,7 @@ object connectionUtil {
 
         if(u == userName && p == password){
          // println("update starting")
+          success = true
           val sql = "update p1Users set userName = ?, password = ? where userName = ?"
           val statement = connection.prepareStatement(sql)
 
@@ -86,37 +61,18 @@ object connectionUtil {
       case e: Throwable => e.printStackTrace
     }
     finally {
-      connection.close()
-    }
-  }
-
-  def removeUser(u: String, p :String) :Unit ={
-    var connection: Connection = null
-
-    try {
-      // make the connection
-      //Class.forName(driver)
-      connection = DriverManager.getConnection(url, username, password)
-
-      // create the statement, and run the select query
-      val statement = connection.createStatement()
-      val resultSet = statement.executeQuery("SELECT * from career_record")
-      while (resultSet.next()) {
-        val player_name = resultSet.getString("Player_name")
-        val record_name = resultSet.getString("Record_Name")
-        val stat = resultSet.getString("Stat")
-        println(player_name +" "+record_name+" "+ stat)
-
+      if (success == false){
+        println("The username or password provided is incorrect")
+        changeUserInfo.showMenu()
+        //success = false
       }
-    } catch {
-      case e: Throwable => e.printStackTrace
-    }
-    finally {
       connection.close()
     }
   }
+
   def login(u: String, p :String) : Unit ={
     var connection: Connection = null
+
 
     try {
       // make the connection
@@ -135,22 +91,30 @@ object connectionUtil {
         //println("p " + p)
         //println("password " + password)
         if(u == userName && p == password && userType == "admin"){
-
+           success = true
           adminLogin.showMenu(userName)
-
+          //println("also test")
         } else if (u == userName && p == password && userType == "basic"){
-
+           success = true
            basicLogin.showMenu(userName)
-
+            //println("test")
         }
+
       }
     } catch {
+
       case e: Throwable => e.printStackTrace
-        //println("The username or password provided is incorrect")
-        //loginScreen.showMenu()
+
 
     }
     finally {
+      println(success)
+      if (success == false){
+        println(success)
+        println("The username or password provided is incorrect")
+        loginScreen.showMenu()
+      }
+      success = false
       connection.close()
     }
   }

@@ -42,7 +42,7 @@ object adminLogin {
     spark.sql("SELECT victim_gender, COUNT(*) FROM PoliceShooting Group by(victim_gender) order by(COUNT(1)) DESC limit(4)").write.format("org.apache.spark.sql.json").mode("overwrite").save("output\\gender")
     //4
     println(Console.BOLD+"number of incidents per year")
-    spark.sql("SELECT year(date_of_incident), COUNT(*) FROM PoliceShooting Group by(year(date_of_incident)) order by(year(date_of_incident)) DESC").show()
+    spark.sql("SELECT year(date_of_incident), COUNT(*) FROM PoliceShooting Group by(year(date_of_incident)) order by(year(date_of_incident)) DESC").show(8)
     spark.sql("SELECT year(date_of_incident), COUNT(*) FROM PoliceShooting Group by(year(date_of_incident)) order by(year(date_of_incident)) DESC limit(8)").write.format("org.apache.spark.sql.json").mode("overwrite").save("output\\incident_by_year")
     //5
     println(Console.BOLD+"Number of incident with armed vs unarmed suspects")

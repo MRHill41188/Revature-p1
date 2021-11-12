@@ -38,7 +38,7 @@ object basicLogin {
     spark.sql("SELECT victim_gender, COUNT(*) FROM PoliceShooting Group by(victim_gender) order by(COUNT(1)) DESC").show(4)
     //4
     println(Console.BOLD+"number of incidents per year")
-    spark.sql("SELECT year(date_of_incident), COUNT(*) FROM PoliceShooting Group by(year(date_of_incident)) order by(year(date_of_incident)) DESC").show()
+    spark.sql("SELECT year(date_of_incident), COUNT(*) FROM PoliceShooting Group by(year(date_of_incident)) order by(year(date_of_incident)) DESC").show(8)
     //5
     println(Console.BOLD+"Number of incident with armed vs unarmed suspects")
     spark.sql("SELECT Armed_Unarmed_Status, COUNT(*) FROM PoliceShooting Group by(Armed_Unarmed_Status) order by(COUNT(1)) DESC").show(5)

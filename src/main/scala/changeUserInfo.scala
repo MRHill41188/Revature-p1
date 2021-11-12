@@ -14,8 +14,8 @@ object changeUserInfo {
 
       println(Console.BOLD +"Please enter your current password")
       password = scala.io.StdIn.readLine()
-      println(userName)
-      println(password)
+      //println(userName)
+      //println(password)
       if(password != ""){
 
         println("Please enter your new username or enter your current username to keep it")
